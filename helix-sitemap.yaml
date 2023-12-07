@@ -1,0 +1,7 @@
+version: 1
+sitemaps:
+  default:
+    origin: https://main--esd-demo--florentin.hlx.live
+    source: /blogs/query-index.json
+    destination: /blogs/sitemap.xml
+    lastmod: YYYY-MM-DD

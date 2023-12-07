@@ -1,0 +1,4 @@
+user-agent: *
+disallow: /
+
+Sitemap: https://main--esd-demo--florentin.hlx.page/blogs/sitemap-index.xml
