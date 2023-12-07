@@ -1,4 +1,4 @@
 user-agent: *
 disallow: /
 
-Sitemap: https://main--esd-demo--florentin.hlx.page/blogs/sitemap-index.xml
+Sitemap: https://main--esd-demo--florentin.hlx.live/blogs/sitemap-index.xml
