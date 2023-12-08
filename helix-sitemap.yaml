@@ -1,12 +1,15 @@
 version: 1
 sitemaps:
-  default:
-    origin: https://main--esd-demo--florentin.hlx.live
-    source: /blogs/query-index.json?sheet=de
-    destination: /blogs/sitemap.xml
-    lastmod: YYYY-MM-DD
-  de:
-    origin: https://main--esd-demo--florentin.hlx.live
-    source: /blogs/query-index.json?sheet=de
-    destination: /de/blogs/sitemap.xml
-    lastmod: YYYY-MM-DD
+  languages:
+    en:
+      origin: https://main--esd-demo--florentin.hlx.live
+      source: /blogs/query-index.json
+      destination: /blogs/sitemap.xml
+      lastmod: YYYY-MM-DD
+      hreflang: en
+    de:
+      origin: https://main--esd-demo--florentin.hlx.live
+      source: /blogs/query-index.json?sheet=de
+      destination: /de/blogs/sitemap.xml
+      lastmod: YYYY-MM-DD
+      hreflang: de
