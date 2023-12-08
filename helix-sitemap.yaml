@@ -6,6 +6,7 @@ sitemaps:
     destination: /blogs/sitemap.xml
     lastmod: YYYY-MM-DD
   de:
+    origin: https://main--esd-demo--florentin.hlx.live
     source: /blogs/query-index.json?sheet=de
     destination: /de/blogs/sitemap.xml
     lastmod: YYYY-MM-DD
